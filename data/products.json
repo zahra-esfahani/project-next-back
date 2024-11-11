@@ -1,0 +1,26 @@
+[
+  {
+    "id": "d10eb5a7-b956-4f8c-9635-bb5acfe69f1a",
+    "name": "کاپشن",
+    "price": "1000",
+    "quantity": "1000"
+  },
+  {
+    "id": "0b00a2e8-7ceb-44fc-87db-56ac1b3587ef",
+    "name": "کاپشن",
+    "price": "6000",
+    "quantity": "2000"
+  },
+  {
+    "id": "36a987a1-a1fe-41fc-8673-c08994b5862d",
+    "name": "کاپشن",
+    "price": "200",
+    "quantity": "5000"
+  },
+  {
+    "id": "9c6795c4-c1fa-4ad0-9e47-1d3dd9080dc3",
+    "name": "کاپشن",
+    "price": "1000",
+    "quantity": "500"
+  }
+]
